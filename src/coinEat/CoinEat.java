@@ -103,7 +103,7 @@ public class CoinEat extends JFrame {
 		coinX = (int)(Math.random()*(501-playerWidth));
 		coinY = (int)(Math.random()*(501-playerHeight-30))+30;	// 점수 초기화, 플레이어와 코인 위치 설정
 		
-		playSound("src/audio/color1.wav", true);
+		playSound("src/audio/backgroundMusic.wav", true);
 	}
 	
 	public void keyProcess() {
