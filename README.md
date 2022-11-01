@@ -1,9 +1,15 @@
-출처:https://github.com/DongChyeon/Java-Toy-Projects/tree/master/CoinEat
-추가하고싶은기능출처:https://github.com/kyupid/cocoa-personal-project
+●출처:https://github.com/DongChyeon/Java-Toy-Projects/tree/master/CoinEat
+
+
+●추가하고싶은기능출처:https://github.com/kyupid/cocoa-personal-project
+
+
+
+
 동전먹기게임을 만드려보려고 참고해서 작성했음.
 코드를 가져와서 실행을 하고 추가 구현을 하려고 했다.
 게임은 동전 먹기 게임입니다.
-사용방법은 간단하게 wsda로 움직이며 점수를 쌓는 게임이고, 코인을먹으면 위치가 랜덤으로 초기화가 되고 키를 통해 계속 따라가 먹는게임.
+사용방법은 간단하게 wsda로 움직이며 코인을먹으면 위치가 랜덤으로 초기화가 되고 키를 통해 계속 따라가 점수를 올리는 게임입니다.  
 
 ![화면 캡처 2022-11-01 112109](https://user-images.githubusercontent.com/114119261/199149638-9e312aab-2e34-4305-9310-0bb3281363e0.jpg)
 
