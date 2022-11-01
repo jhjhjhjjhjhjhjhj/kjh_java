@@ -1,4 +1,5 @@
 출처:https://github.com/DongChyeon/Java-Toy-Projects/tree/master/CoinEat
+추가하고싶은기능출처:https://github.com/kyupid/cocoa-personal-project
 동전먹기게임을 만드려보려고 참고해서 작성했음.
 코드를 가져와서 실행을 하고 추가 구현을 하려고 했다.
 게임은 동전 먹기 게임입니다.
